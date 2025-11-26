@@ -1,2 +1,2 @@
-# gerador-mega-inteligente
+# Gerador-Mega-Inteligente
 Mega Sena
